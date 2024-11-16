@@ -1,2 +1,2 @@
 # Projeto_Spotify
-PáginaWebSpotify
+PáginaWebSpotify usando html, css e javascript
